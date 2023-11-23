@@ -15,8 +15,7 @@ Skills: C | C++ | Java | Python | HTML | CSS | PHP | Javascript
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayonneub)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayonneub&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/ayonneub)  
+ 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ayonneub)  
 
