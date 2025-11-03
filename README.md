@@ -6,8 +6,8 @@ I am a lecturer of Computer Science and Engineering Department. My research inte
 
 Skills: C | C++ | Java | Python | HTML | CSS | PHP | Javascript 
 
-- 🔭 I’m currently working on Research 
-- 🌱 I’m currently learning Machine Learning. 
+- 🔭 I’m currently working on computer vision. 
+- 🌱 I’m currently developing the architecture to detect levee fault using computer vision. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ayonneub)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ayonshyper/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ayonneub)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ayonneub/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ayonneub)  
